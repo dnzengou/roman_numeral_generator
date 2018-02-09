@@ -1,0 +1,15 @@
+{
+  "name": "roman_numeral_generator",
+  "description": "RomanNumeralGenerator",
+  "version": "1.0.0",
+  "private": true,
+  "author": "",
+  "repository": "https://github.com/dnzengou/roman_numeral_generator.git",
+  "scripts": {
+    "test.watch": "jest --watchAll",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
